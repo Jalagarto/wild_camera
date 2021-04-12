@@ -13,7 +13,11 @@ attempt to put all packages together to run the camera in the wild (raspberry pi
         1. get images every second.
         2. if there is movement record the image and keep recording every second  
            for the next 10 secs.
-
+    4. Final touch: 
+        1. Save battery:
+            1. Send to sleep for a while when nothing happens.
+            2. Disconnect usb, hdmi, WiFi, Bluetooth when necessary
+        2. Use VNC to manage from my mobile... Create an easy connection app or just make it easy to handle it from VNC mobile when connected to the same wifi
 _____
 
 **Try pictures first, then video:**  
