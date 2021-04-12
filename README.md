@@ -17,7 +17,8 @@ attempt to put all packages together to run the camera in the wild (raspberry pi
         1. Save battery:
             1. Send to sleep for a while when nothing happens.
             2. Disconnect usb, hdmi, WiFi, Bluetooth when necessary
-        2. Use VNC to manage from my mobile... Create an easy connection app or just make it easy to handle it from VNC mobile when connected to the same wifi
+        2. Use VNC to manage from my mobile... Create an easy connection app or just make it easy to handle it from VNC mobile when connected to the same wifi.  
+        I.e., connect. Check that the program is running, see a picture, disconnect WiFi to save power
 _____
 
 **Try pictures first, then video:**  
